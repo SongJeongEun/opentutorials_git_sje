@@ -4,4 +4,5 @@ hi..
 apple
 banana
 master
+conflict
 
