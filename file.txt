@@ -8,5 +8,6 @@ conflict
 "원격저장소"
 "실험2에인코딩"
 push
+pull
 
 
